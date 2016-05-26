@@ -1,25 +1,26 @@
 {
-  "name": "etoken-server-side-examples",
-  "version": "1.0.0",
-  "description": "Examples on how to use eToken platform from backend.",
+  "name": "server-side-examples",
+  "version": "1.0.1",
+  "description": "Examples on how to use OpenDollar platform on backend.",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/Ambisafe/etoken-server-side-examples.git"
+    "url": "git+https://github.com/OpenDollar/server-side-examples.git"
   },
   "keywords": [
+    "OpenDollar",
     "etoken",
     "ethereum"
   ],
   "author": "Ambisafe Inc.",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/Ambisafe/etoken-server-side-examples/issues"
+    "url": "https://github.com/OpenDollar/server-side-examples/issues"
   },
-  "homepage": "https://github.com/Ambisafe/etoken-server-side-examples#readme",
+  "homepage": "https://github.com/OpenDollar/server-side-examples",
   "dependencies": {
     "web3": "^0.16.0",
     "etoken-lib": "^0.0.3"

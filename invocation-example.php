@@ -11,7 +11,7 @@ $txid = `node send-tx.js $destination`;
 echo "transaction hash: $txid";
 
 #send transaction to icap address
-$destination = 'AMBICLIENT123';
+$destination = 'XE33EXPXREG123456789';
 $amount = 1.12;
 $txid = `node send-tx.js $destination`;
 echo "second transaction hash: $txid";

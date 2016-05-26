@@ -9,7 +9,7 @@ print "transaction hash: #{txid}";
 
 
 #send transaction to ICAP address
-destination = 'AMBICLIENT123';
+destination = 'XE33EXPXREG123456789';
 amount = 1.12;
 txid = `node send-tx.js #{destination} #{amount}`;
 print "second transaction hash: #{txid}";
